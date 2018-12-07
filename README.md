@@ -73,4 +73,4 @@ Setup instructions for this package:
 <br><p>
 Call graph for this Python application: 
 </p>
-<img src="https://cdn.rawgit.com/BeckResearchLab/USP-inhibition/master/docs/callgraph.gv.svg" alt="USP-inhibition call graph image" height="1200" width="300">
+<img src="https://cdn.jsdelivr.net/gh/BeckResearchLab/USP-inhibition/docs/callgraph.gv.svg" alt="USP-inhibition call graph image" height="1200" width="300">
